@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+*.pem
+
+# Large datasets and model files
+data/
+datasets/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
